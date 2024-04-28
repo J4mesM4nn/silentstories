@@ -10,6 +10,8 @@ li {
   display: inline;
 }
 section {
+  width: 200px;
+  float: left;
   background: white;
   border-radius: 25px;
   box-shadow: -10px 10px 5px black;
