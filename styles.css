@@ -8,6 +8,10 @@ h1 {
 }
 li {
   display: inline;
+  text-decoration: none;
+  background: white;
+  padding: 5px;
+  margin: 10px;
 }
 .left {
   width: 700px;
