@@ -9,11 +9,13 @@ h1 {
 li {
   display: inline;
 }
-section {
+.left {
   width: 700px;
   height: 200px;
   float: left;
   background: white;
   border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
   box-shadow: -10px 10px 5px black;
 }
