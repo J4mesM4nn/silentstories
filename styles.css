@@ -13,6 +13,10 @@ li {
   padding: 5px;
   margin: 10px;
 }
+a {
+  text-decoration: none;
+  font-style: italic;
+}
 .left {
   width: 700px;
   height: 200px;
